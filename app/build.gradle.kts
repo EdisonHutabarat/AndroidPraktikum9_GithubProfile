@@ -29,7 +29,7 @@ android {
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
-        buildConfigField("String","ACCESS_TOKEN","\"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\"")
+        buildConfigField("String","ACCESS_TOKEN","\"ACCESS_TOKEN\"")
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
